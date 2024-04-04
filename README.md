@@ -21,3 +21,7 @@ Import 3D Models from Meshy AI (AI Generator Website) to Blender using .gib.
 
 ### Unity 2D GUI
 ###### https://www.studytonight.com/game-development-in-2D/changing-scene
+
+
+### How to render In Blender
+##### https://artisticrender.com/how-to-render-in-blender/#:~:text=To%20render%20in%20Blender%20Press,is%20more%20to%20the%20story.
